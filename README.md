@@ -74,3 +74,8 @@ class Program
     }
 }
 ```
+
+Результат вывода в терминал(пример 3), вы также можете проверить, что они работают правильно:
+
+<img width="547" alt="Screenshot 2024-04-26 at 11 49 46" src="https://github.com/imalikov13943/Final_test/assets/102352450/9c5c7da9-1be8-4b6c-840b-0ef920f0c72d">
+
