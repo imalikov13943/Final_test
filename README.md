@@ -79,4 +79,11 @@ class Program
 
 <img width="547" alt="Screenshot 2024-04-26 at 11 49 46" src="https://github.com/imalikov13943/Final_test/assets/102352450/9c5c7da9-1be8-4b6c-840b-0ef920f0c72d">
 
-5. Скриншот коммитов для подтверждения:
+
+5. Скриншоты коммитов для подтверждения:
+
+<img width="501" alt="Screenshot 2024-04-26 at 12 21 59" src="https://github.com/imalikov13943/Final_test/assets/102352450/666fc8dd-a975-479e-bce7-8dcf49e0155e">
+
+<img width="703" alt="Screenshot 2024-04-26 at 12 24 15" src="https://github.com/imalikov13943/Final_test/assets/102352450/a44a2d2e-4f25-4be1-9fce-94c8b350da3b">
+
+<img width="556" alt="Screenshot 2024-04-26 at 12 24 27" src="https://github.com/imalikov13943/Final_test/assets/102352450/7f5e7eac-1808-4ede-afbb-c80fa84281c4">
