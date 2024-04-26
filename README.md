@@ -27,3 +27,50 @@
 Они не указаны в блок-схеме, также я указал только метод `FilterStrings`.
 
 <img width="369" alt="Screenshot 2024-04-26 at 11 54 06" src="https://github.com/imalikov13943/Final_test/assets/102352450/86b2fde6-a384-4cfe-9168-f986c46b7b30">
+
+Код программы:
+
+```
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static List<string> FilterStrings(List<string> input)
+    {
+        List<string> result = new List<string>();
+        foreach (string str in input)
+        {
+            if (str.Length <= 3)
+            {
+                result.Add(str);
+            }
+        }
+        return result;
+    }
+
+    static void PrintArray(string[] array)
+    {
+        Console.Write("[");
+        for (int i = 0; i < array.Length; i++)
+        {
+            Console.Write($"“{array[i]}”");
+            if (i < array.Length - 1)
+            {
+                Console.Write(", ");
+            }
+        }
+        Console.Write("]");
+        Console.WriteLine();
+    }
+
+    static void Main()
+    {
+
+        List<string> input = new List<string> { "Russia", "Denmark", "Kazan" };
+        List<string> result = FilterStrings(input);
+
+        PrintArray(result.ToArray());
+    }
+}
+```
